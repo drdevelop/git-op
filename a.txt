@@ -1,2 +1,6 @@
 a
+<<<<<<< HEAD
 a1-person2-person2-person2
+=======
+a1-person2
+>>>>>>> person2修改a.txt
